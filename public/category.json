@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "category": "Phone",
+    "slug": "phone"
+  },
+  {
+    "id": 2,
+    "category": "Smart Watch",
+    "slug": "smart_watch"
+  },
+  {
+    "id": 3,
+    "category": "Charger",
+    "slug": "charger"
+  },
+  {
+    "id": 4,
+    "category": "Power bank",
+    "slug": "power_bank"
+  }  
+]

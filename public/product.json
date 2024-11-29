@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "title": "Apple iPhone 15 Pro Max",
+    "image": "https://i.ibb.co.com/0mmmVDs/Apple-i-Phone-15-Pro-Max.jpg",
+    "category": "Phone",
+    "price": 1299,
+    "description": "The ultimate smartphone for professionals and enthusiasts.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip for exceptional performance",
+      "48MP camera with advanced zoom",
+      "Titanium frame for durability",
+      "All-day battery life"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S24 Ultra",
+    "image": "https://i.ibb.co.com/VM9YpXT/THUMB-Galaxy-S24ultra.jpg",
+    "category": "Phone",
+    "price": 1199,
+    "description": "Flagship smartphone with premium features.",
+    "specification": [
+      "6.8-inch Dynamic AMOLED 2X display",
+      "Snapdragon 8 Gen 3 processor",
+      "200MP camera with 10x optical zoom",
+      "S Pen support",
+      "5000mAh battery"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": 3,
+    "title": "Google Pixel 9 Pro",
+    "image": "https://i.ibb.co.com/0CCB9JP/Google-Pixel-9-Pro.png",
+    "category": "Phone",
+    "price": 999,
+    "description": "AI-powered smartphone with premium features.",
+    "specification": [
+      "6.7-inch OLED display",
+      "Google Tensor G4 processor",
+      "48MP Night Sight camera",
+      "Stock Android experience",
+      "5000mAh battery"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "title": "OnePlus 12",
+    "image": "https://i.ibb.co.com/7pph9Df/oneplus-12.png",
+    "category": "Phone",
+    "price": 849,
+    "description": "High-performance smartphone with clean UI.",
+    "specification": [
+      "6.8-inch Fluid AMOLED display",
+      "Snapdragon 8 Gen 3",
+      "50MP camera with OIS",
+      "5000mAh battery",
+      "Warp Charge 100W"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "title": "Xiaomi 14 Pro",
+    "image": "https://i.ibb.co.com/pfSJntL/Xiaomi-14-Pro-1.jpg",
+    "category": "Phone",
+    "price": 749,
+    "description": "Affordable flagship with great features.",
+    "specification": [
+      "6.67-inch AMOLED display",
+      "Snapdragon 8 Gen 3 processor",
+      "108MP triple camera setup",
+      "4800mAh battery",
+      "120W fast charging"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "title": "Oppo Find X6 Pro",
+    "image": "https://i.ibb.co.com/P6Mgpxg/Oppo-Find-X6-Pro.jpg",
+    "category": "Phone",
+    "price": 999,
+    "description": "Premium smartphone with cutting-edge features.",
+    "specification": [
+      "6.7-inch AMOLED display",
+      "Snapdragon 8 Gen 3 processor",
+      "50MP quad-camera system",
+      "5000mAh battery",
+      "65W SuperVOOC fast charging"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "title": "Sony Xperia IV",
+    "image": "https://i.ibb.co.com/sJSV7qX/Sony-Xperia-1-V.png",
+    "category": "Phone",
+    "price": 1099,
+    "description": "Flagship phone with superb camera quality.",
+    "specification": [
+      "6.5-inch OLED display",
+      "Snapdragon 8 Gen 3",
+      "64MP main camera with Zeiss optics",
+      "4500mAh battery",
+      "IP68 water resistance"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "title": "Realme GT 3 Pro",
+    "image": "https://i.ibb.co.com/HDq2FVm/Realme-GT-3-Pro.jpg",
+    "category": "Phone",
+    "price": 699,
+    "description": "Fast-charging phone with strong performance.",
+    "specification": [
+      "6.74-inch AMOLED display",
+      "Snapdragon 8 Gen 3",
+      "50MP triple-camera system",
+      "5000mAh battery",
+      "150W fast charging"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "title": "Vivo X90 Pro",
+    "image": "https://i.ibb.co.com/sH7TYft/Vivo-X90-Pro.jpg",
+    "category": "Phone",
+    "price": 799,
+    "description": "Great value with professional-grade camera.",
+    "specification": [
+      "6.78-inch AMOLED display",
+      "Dimensity 9200 processor",
+      "50MP triple camera",
+      "4800mAh battery",
+      "80W fast charging"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "title": "Apple Watch Series 9",
+    "image": "https://i.ibb.co.com/4fgLk62/Apple-Watch-Series-9.jpg",
+    "category": "Smart Watch",
+    "price": 399,
+    "description": "Advanced smartwatch with health tracking features.",
+    "specification": [
+      "Always-on Retina display",
+      "Heart rate monitoring",
+      "Blood oxygen measurement",
+      "Fast charging",
+      "Water resistance"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 11,
+    "title": "Samsung Galaxy Watch 6",
+    "image": "https://i.ibb.co.com/JxRgKJC/Samsung-Galaxy-Watch-6.jpg",
+    "category": "Smart Watch",
+    "price": 299,
+    "description": "Feature-packed smartwatch with fitness tracking.",
+    "specification": [
+      "1.5-inch AMOLED display",
+      "Exynos W930 processor",
+      "Body composition analysis",
+      "Long battery life",
+      "IP68 water resistance"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "title": "Garmin Fenix 7X",
+    "image": "https://i.ibb.co.com/Sn4Jz1x/Garmin-Fenix-7-X.jpg",
+    "category": "Smart Watch",
+    "price": 699,
+    "description": "Multi-sport GPS watch with rugged design.",
+    "specification": [
+      "1.4-inch always-on display",
+      "Solar charging",
+      "Heart rate and blood oxygen tracking",
+      "Map and navigation features",
+      "Durable design"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 13,
+    "title": "Fossil Gen 6",
+    "image": "https://i.ibb.co.com/W2xj4tQ/Fossil-Gen-6.jpg",
+    "category": "Smart Watch",
+    "price": 229,
+    "description": "Stylish smartwatch with heart rate monitor.",
+    "specification": [
+      "1.28-inch AMOLED display",
+      "Snapdragon Wear 4100+",
+      "Blood oxygen sensor",
+      "Fast charging",
+      "Swimproof design"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 14,
+    "title": "Amazfit GTR 4",
+    "image": "https://i.ibb.co.com/7JHJ2m4/Amazfit-GTR-4.jpg",
+    "category": "Smart Watch",
+    "price": 179,
+    "description": "Affordable smartwatch with fitness features.",
+    "specification": [
+      "1.43-inch AMOLED display",
+      "BioTracker 4.0 PPG sensor",
+      "SpO2 and heart rate monitoring",
+      "14-day battery life",
+      "Waterproof"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": 15,
+    "title": "Suunto 9 Peak",
+    "image": "https://i.ibb.co.com/sJ7JwC3/Suunto-9-Peak.jpg",
+    "category": "Smart Watch",
+    "price": 499,
+    "description": "Advanced multisport watch with great battery life.",
+    "specification": [
+      "1.2-inch touch display",
+      "Advanced GPS tracking",
+      "Heart rate monitoring",
+      "Up to 170 hours of battery life",
+      "Durable design"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 16,
+    "title": "Withings Steel HR Sport",
+    "image": "https://i.ibb.co.com/6BBL5sp/Withings-Steel-HR-Sport.jpg",
+    "category": "Smart Watch",
+    "price": 199,
+    "description": "Hybrid smartwatch with heart rate and fitness tracking.",
+    "specification": [
+      "1.0-inch OLED display",
+      "Heart rate tracking",
+      "Sleep monitoring",
+      "25-day battery life",
+      "Water-resistant"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": 17,
+    "title": "THUMB Galaxy Watch Ultra",
+    "image": "https://i.ibb.co.com/pymW8Mv/THUMB-Galaxy-Watch-Ultra.jpg",
+    "category": "Smart Watch",
+    "price": 299,
+    "description": "Feature-packed smartwatch with fitness tracking.",
+    "specification": [
+      "1.5-inch AMOLED display",
+      "Exynos W930 processor",
+      "Body composition analysis",
+      "Long battery life",
+      "IP68 water resistance"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 18,
+    "title": "Lenovo SM-9",
+    "image": "https://i.ibb.co.com/XJMq8zp/Lenovo-SM-9.jpg",
+    "category": "Smart Watch",
+    "price": 229,
+    "description": "Stylish smartwatch with heart rate monitor.",
+    "specification": [
+      "1.28-inch AMOLED display",
+      "Snapdragon Wear 4100+",
+      "Blood oxygen sensor",
+      "Fast charging",
+      "Swimproof design"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },    
+  {
+    "id": 19,
+    "title": "Aukey 100W USB C Charger",
+    "image": "https://i.ibb.co.com/jWrvTy7/Aukey-100-W-USB-C-Charger.jpg",
+    "category": "Charger",
+    "price": 79,
+    "description": "Powerful and compact USB-C charger.",
+    "specification": [
+      "100W power output",
+      "Dual USB-C ports",
+      "Foldable plug",
+      "Universal compatibility",
+      "Overheat and surge protection"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 20,
+    "title": "Zendure SuperPort 4",
+    "image": "https://i.ibb.co.com/6ZsfCJ6/Zendure-Super-Port-4.jpg",
+    "category": "Charger",
+    "price": 99,
+    "description": "Multi-device charger with 100W fast charging.",
+    "specification": [
+      "100W total output",
+      "4 USB ports",
+      "Foldable plug",
+      "Universal charging support",
+      "Overload protection"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 21,
+    "title": "Spigen 30W USB C Charger",
+    "image": "https://i.ibb.co.com/K71fLTM/Spigen-30-W-USB-C-Charger.jpg",
+    "category": "Charger",
+    "price": 35,
+    "description": "Compact USB C charger for fast charging.",
+    "specification": [
+      "30W fast charging",
+      "USB-C to USB-C cable included",
+      "Compact and portable",
+      "Overheat protection",
+      "Universal device compatibility"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 22,
+    "title": "Anker 65W Fast Charger",
+    "image": "https://i.ibb.co.com/wg833MV/Anker-65-W-Fast-Charger.jpg",
+    "category": "Charger",
+    "price": 59,
+    "description": "Compact and powerful fast charger.",
+    "specification": [
+      "65W fast charging",
+      "Dual USB-C ports",
+      "Compatible with multiple devices",
+      "Lightweight and portable",
+      "Overheat protection"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 23,
+    "title": "RAVPower 90W USB C Charger",
+    "image": "https://i.ibb.co.com/7kf4ZMN/RAVPower-90-W-USB-C-Charger.jpg",
+    "category": "Charger",
+    "price": 65,
+    "description": "Universal charger with high power output.",
+    "specification": [
+      "90W fast charging",
+      "3 USB-C ports",
+      "Compact design",
+      "Overload protection",
+      "Global voltage compatibility"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 24,
+    "title": "Acefast 30W GaN Type C",
+    "image": "https://i.ibb.co.com/L1wsMHD/Acefast-30-W-Ga-N-Type-C.jpg",
+    "category": "Charger",
+    "price": 79,
+    "description": "Powerful and compact USB-C charger.",
+    "specification": [
+      "100W power output",
+      "Dual USB-C ports",
+      "Foldable plug",
+      "Universal compatibility",
+      "Overheat and surge protection"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 25,
+    "title": "Baseus Charger 20W",
+    "image": "https://i.ibb.co.com/DpWWrKL/Baseus-Charger-20-W.png",
+    "category": "Charger",
+    "price": 99,
+    "description": "Multi-device charger with 100W fast charging.",
+    "specification": [
+      "100W total output",
+      "4 USB ports",
+      "Foldable plug",
+      "Universal charging support",
+      "Overload protection"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 26,
+    "title": "MC200 65W PD Fast Charger",
+    "image": "https://i.ibb.co.com/Y7Hv7yp/MC200-65-W-PD-Fast-Charger.jpg",
+    "category": "Charger",
+    "price": 59,
+    "description": "Compact and powerful fast charger.",
+    "specification": [
+      "65W fast charging",
+      "Dual USB-C ports",
+      "Compatible with multiple devices",
+      "Lightweight and portable",
+      "Overheat protection"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 27,
+    "title": "ACE FAST E14 ",
+    "image": "https://i.ibb.co.com/Sxg3Qqb/ACEFAST-E14.jpg",
+    "category": "Charger",
+    "price": 59,
+    "description": "Compact and powerful fast charger.",
+    "specification": [
+      "65W fast charging",
+      "Dual USB-C ports",
+      "Compatible with multiple devices",
+      "Lightweight and portable",
+      "Overheat protection"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 28,
+    "title": "RAVPower 20000mAh Power Bank",
+    "image": "https://i.ibb.co.com/Jrx93D4/RAVPower-20000m-Ah-Power-Bank.png",
+    "category": "Power bank",
+    "price": 49,
+    "description": "Compact power bank for everyday use.",
+    "specification": [
+      "20,000mAh capacity",
+      "2 USB-A ports",
+      "Quick charge support",
+      "LED power indicator",
+      "Lightweight design"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 29,
+    "title": "Xiaomi Mi Power Bank 3 Pro",
+    "image": "https://i.ibb.co.com/FB27Tnj/Xiaomi-Mi-Power-Bank-3-Pro.png",
+    "category": "Power bank",
+    "price": 45,
+    "description": "Affordable high-capacity power bank.",
+    "specification": [
+      "20,000mAh capacity",
+      "2 USB-A and 1 USB-C ports",
+      "Quick charge support",
+      "LED display",
+      "Compact design"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 30,
+    "title": "InnoChips 20000mAh Power Bank",
+    "image": "https://i.ibb.co.com/Qd3HrXk/Inno-Chips-20000m-Ah-Power-Bank.jpg",
+    "category": "Power bank",
+    "price": 39,
+    "description": "Affordable and efficient power bank.",
+    "specification": [
+      "20,000mAh capacity",
+      "2 USB-A ports",
+      "Fast charging",
+      "LED power indicator",
+      "Portable design"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 31,
+    "title": "Zendure A5 10000mAh",
+    "image": "https://i.ibb.co.com/hZg1ZVS/Zendure-A5-10000m-Ah.jpg",
+    "category": "Power bank",
+    "price": 39,
+    "description": "Compact power bank for quick charging.",
+    "specification": [
+      "10,000mAh capacity",
+      "2 USB-A ports",
+      "Fast charging",
+      "Lightweight",
+      "LED display"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 32,
+    "title": "Samsung 10000mAh Power Bank",
+    "image": "https://i.ibb.co.com/ZckMMJG/Samsung-Battery-Pack-10000-m-Ah-2.jpg",
+    "category": "Power bank",
+    "price": 39,
+    "description": "Reliable power bank with fast charging.",
+    "specification": [
+      "10,000mAh capacity",
+      "2 USB-A ports",
+      "Fast charging",
+      "Compact design",
+      "Overcharge protection"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 33,
+    "title": "Aukey 20000mAh Power Bank",
+    "image": "https://i.ibb.co.com/9WQqMB8/Aukey-20000m-Ah-Power-Bank.jpg",
+    "category": "Power bank",
+    "price": 55,
+    "description": "High-capacity power bank for all devices.",
+    "specification": [
+      "20,000mAh capacity",
+      "Quick charge support",
+      "2 USB-A and 1 USB-C ports",
+      "LED display",
+      "Compact size"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 34,
+    "title": "Mophie PowerStation XXL",
+    "image": "https://i.ibb.co.com/824wv5v/Mophie-Powerstation-XXL.jpg",
+    "category": "Power bank",
+    "price": 99,
+    "description": "Premium power bank with large capacity.",
+    "specification": [
+      "20,000mAh capacity",
+      "3 USB-A ports",
+      "Fast charging",
+      "Slim design",
+      "Durable build"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 35,
+    "title": "Xiaomi Mi Power Bank Pro",
+    "image": "https://i.ibb.co.com/xffBFRp/Xiaomi-Mi-Power-Bank-Pro.jpg",
+    "category": "Power bank",
+    "price": 59,
+    "description": "Compact yet powerful 10,000mAh power bank.",
+    "specification": [
+      "10,000mAh capacity",
+      "USB-C port",
+      "Quick charge support",
+      "LED display",
+      "Lightweight design"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 36,
+    "title": "Baseus 30000mAh Power Bank",
+    "image": "https://i.ibb.co.com/8NHvXWv/Baseus-30000m-Ah-Power-Bank.jpg",
+    "category": "Power bank",
+    "price": 59,
+    "description": "Large capacity power bank for extended use.",
+    "specification": [
+      "30,000mAh capacity",
+      "3 USB ports",
+      "Fast charging",
+      "Durable build",
+      "LED power indicator"
+    ],
+    "availability": true,
+    "rating": 4.8
+  }
+]
